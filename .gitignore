@@ -1,0 +1,36 @@
+# AI Model files (downloaded automatically)
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Streamlit cache
+.streamlit/
