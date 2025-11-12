@@ -16,7 +16,7 @@ A powerful, real-time AI object detection application built with YOLOv8 and Stre
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/real-time-ai-object-detection.git
+git clone https://github.com/Rayyan1704/Real_Time_AI_Object_Detection.git
 cd real-time-ai-object-detection
 ```
 
@@ -122,3 +122,4 @@ This project is licensed under the MIT License.
 - [Ultralytics](https://ultralytics.com/) for YOLOv8
 - [Streamlit](https://streamlit.io/) for the web framework
 - [OpenCV](https://opencv.org/) for computer vision tools
+
