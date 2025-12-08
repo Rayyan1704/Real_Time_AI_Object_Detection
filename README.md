@@ -2,6 +2,10 @@
 
 A powerful, real-time AI object detection application built with YOLOv8 and Streamlit. Detect objects in real-time using your webcam, mobile camera, or upload images for analysis.
 
+## 🌐 Live Demo
+
+**[Try the live demo here](https://object-detection-real-time.streamlit.app/)**
+
 ## ✨ Features
 
 - 🎥 **Real-time webcam detection** with ultra-fast performance
